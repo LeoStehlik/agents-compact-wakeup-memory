@@ -41,7 +41,12 @@ If a task needs depth, use the memory index, topic files, and search tools after
 - inactive integrations
 - deep historical context not needed for startup
 
-## 6. Maintenance rule
+## 6. Environment & Tooling State
+- Current active model/provider context
+- Known tool outages or restricted modes
+- Cautions for the current session
+
+## 7. Maintenance rule
 When updating this file:
 - prefer current reality over completeness
 - keep it short enough to read in under a minute
